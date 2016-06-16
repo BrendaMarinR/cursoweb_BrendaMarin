@@ -1,0 +1,35 @@
+div{
+	width:250px;
+	height:150px;
+	font-size:30px;
+	float: right;
+}
+
+.caja{
+
+	position: absolute; /*absolute,fixide*/
+	top:150px;
+	bottom:0px;
+	right:0px;
+	left:150px;
+}
+.cajagrande{
+	position: relative;
+	width: 500px;
+	height: 500px;
+
+}
+.verde{
+	background:green;
+
+}
+
+.naranja{
+	background:blue;
+
+}
+
+.rojo{
+	background:red;
+
+}
