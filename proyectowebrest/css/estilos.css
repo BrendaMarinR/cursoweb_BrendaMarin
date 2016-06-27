@@ -1,0 +1,96 @@
+body {
+
+	
+	margin: 0;
+	margin-top:-20px; 
+	height: 100%;
+	padding: 0;
+	font-family: Helvetica;
+	font-size: 18pt;
+	text-align: center;
+
+	background-color: #CCDB7C;
+	color:white;
+
+   }
+   ul li{
+     	margin: 10px;
+     	margin-top: 10px;
+     	margin-bottom: 10px;
+	 	padding:10px;
+
+   	    display: inline;
+	 	list-style: none;
+
+	 	
+	 } 
+
+img {
+
+	height:250px;
+
+}
+
+.titulo	{ 
+		text-align: center;
+		font-family: Helvetica;
+		font-size: 24pt;
+		
+
+		
+
+	}
+	
+	
+.menu { 
+	    
+	    top: 10px;
+	    margin: 20px;
+
+	 	padding:20px;
+	 	left: 3px;
+	 	border:20px;
+	 	border-bottom:1px solid gray;
+	 	margin-bottom: 20px;
+
+	 	text-align:right;
+	 	font-family: Helvetica; 
+		font-size: 18pt;
+		color: #CB2638;
+		text-decoration: none;
+		
+		
+		
+
+	}
+
+
+	 	 
+.logo {
+	 	text-align: center;
+	 	
+	 	
+	 }
+
+.eslogan{
+		text-align: center;
+		color: #CB2638;
+		background-color: #FFF2C7;
+		 
+		
+	}
+
+
+	
+.menu-comida  {
+		display: inline;
+		width: 33.333333%;
+		text-align: center;
+		
+		
+
+
+}
+
+ 
+	 

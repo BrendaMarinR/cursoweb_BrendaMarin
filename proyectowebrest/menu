@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>La Santa Gula</title>
+	<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+
+     <ul class= "menu">
+     	<li><a href="index.html">Inicio</a></li>
+
+	 	<li> <a href="acerca.html">Acerca de</a></li>
+	 	<li> <a href="menu.html">Menú</a> </li>
+	 	<li> <a href="res.html">Reservaciones y contactos</a></li>
+	 </ul>
+	 <div class= "menu-comida">
+	  <ul ><li>Recetas Maltesa de la Mamá Pat</li>
+	  	<img src="img/pasta.jpg" alt="">
+	  <li>Perras Maltesas</li>
+	  <img src="img/hotdog.jpg" alt="">
+	  <li>Las Descaras</li>
+	   <img src="img/hamburgues.jpg" alt="">
+	  <li>Ensaladas</li>
+	  <img src="img/mediterranea.jpg" alt="">
+	  <li>Postres Mediterráneos</li>
+	  <img src="img/pie" alt="">
+
+	  <li>Bebidas</li>
+	  <img src="img/bebidas.jpg" alt="">
+	  </div>
+  
+
+	
+	
+</body>
+</html>
